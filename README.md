@@ -55,6 +55,13 @@ Dawn Validator Point Mining Automation: Automate Dawn point mining with this rob
     - add proxy in `proxy.txt` file according to your account number (proxy.txt file is in `SETTINGS` folder)
     - and add some proxies for backup in `backup_proxy.txt` file
 
+- Get Token
+  - Make sure your Dawn Extension are enabled, Right Click Open New Tab [GetToken](https://chrome-extension://fpdkjdnhkakefebpekbdhillbhonfjjp/pages/dashboard.html)
+  - Right click and Inspect -> Go to Tab Network
+  - and see ss below
+   <img src="https://github.com/user-attachments/assets/3ab78943-1ea9-44c5-a51b-a3cbbcc92ec9" widht=580 height=480 >
+
+
 ## [◉°] ScreenShoot
 
 - script interface
