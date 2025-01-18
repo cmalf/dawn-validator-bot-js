@@ -4,8 +4,12 @@ Dawn Validator Point Mining Automation: Automate Dawn point mining with this rob
 <br><hr>
 
 > [!TIP]
+> If you find error with code 400,407 means your "Bearer Token" has expired and you need to re-login. <br>
+> If you find error with code 502,503, etc. (server overload).
+
+> [!TIP]
 > If you find this script helpful and beneficial, please star ⭐ this repository. Your support motivates me to create more useful tools in the future.
-> 
+
 
 > [!WARNING]
 > ## The use of this bot is entirely at your own risk. I assume no liability for any losses, damages, or consequences arising from its use.
