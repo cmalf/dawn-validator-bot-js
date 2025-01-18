@@ -3,6 +3,10 @@
 Dawn Validator Point Mining Automation: Automate Dawn point mining with this robust Node.js script. (Freemium)
 <br><hr>
 
+> [!TIP]
+> If you find this script helpful and beneficial, please star ⭐ this repository. Your support motivates me to create more useful tools in the future.
+> 
+
 > [!WARNING]
 > ## The use of this bot is entirely at your own risk. I assume no liability for any losses, damages, or consequences arising from its use.
 
@@ -30,7 +34,7 @@ Dawn Validator Point Mining Automation: Automate Dawn point mining with this rob
     ```
 - Go To Folder
   - ```bash
-    cd dawn-validator-bot-js.git
+    cd dawn-validator-bot-js
     ```
 - Install Dependencies
    ```bash
