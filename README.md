@@ -4,7 +4,18 @@ Dawn Validator Point Mining Automation: Automate Dawn point mining with this rob
 <br><hr>
 
 > [!TIP]
-> If you find error with code 400,407 means your "Bearer Token" has expired and you need to re-login. <br>
+> Upgrade Your Dawn Bot Script To Version 1.4 <br>
+> Fixed Some Err Func <br>
+> More Stable <br>
+> You Can Upgrade with `git pull`
+> Open your Dawn Bot Directory on terminal and Type Command Below!
+> ```bash
+> git pull
+> ```
+> Run the script, the bot will automatically delete all supporting files and replace them with updated files, except for the content in the SETTINGS folder.
+
+> [!TIP]
+> If you find error with code 400,402,403,407, etc (means your "Bearer Token" has expired and you need to re-login.) <br>
 > If you find error with code 502,503, etc. (server overload).
 
 > [!TIP]
@@ -49,7 +60,6 @@ Dawn Validator Point Mining Automation: Automate Dawn point mining with this rob
   ```bash
   npm start
   ```
-
 ## ⚙️ Configuration
 
 - Run The Bot Script
