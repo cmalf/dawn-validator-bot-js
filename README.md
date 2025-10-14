@@ -1,3 +1,5 @@
+New Dawn Bot visit here -> [dawn-validator-v2](https://github.com/cmalf/dawn-validator-v2)
+
 # 🛜 dawn-validator-bot-js
 
 Dawn Validator Point Mining Automation: Automate Dawn point mining with this robust Node.js script. (Freemium)
